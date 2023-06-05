@@ -17,6 +17,7 @@ pada tugas ini kelompok kami memilih untuk menggunakan algoritma levenberg-marqu
 
 ### Arsitektur JST
 ![Alt Text](output.png)
+
 layer yang kita buat sangat sederhana, dengan satu layer convolution, satu layer maxpooling, flatte, dan diikuti dense, dan output, semua layer menggunakan aktivasi ReLu, kecuali untuk layer terakhir yang menentukan klasifikasi biner, dengan aktivasi sigmoid
 
 
