@@ -1,5 +1,12 @@
 # Tugas EAS-GENAP Kelompok 9
 
+nama anggota:
+- Ahmad Farhan (02311940000079)
+- Ilham Nurfalaq (02311940000127)
+- Kiky Agustina Putri (02311940000047)
+- Bima Prasetya (023119400000091)
+- Muhammad Chairusya (02311940000162)
+
 ## Deteksi Gambar yang di hasilkan AI generator
 
 kemajuan AI yang booming pada akhir-akhir ini menimbulkan beberapa kontroversi dikalangan seniman, ataupun fotografer, dengan beberapa klik, dan hardware yang memadai kita bisa dengan mudah menghasilkan gambar yang membutuhkan waktu berjam-jam untuk menyelesaikannya, dengan keresahan para seniman, dan fotografer, ada insentif dalam mengkampanyekan dan menekan media agar tetap menyewa seniman, dan fotografer asli, dibanding menggunakan AI generator yang merugikan pendapatan seniman, dan fotografer, maka kelompok kami mencoba membuat model machine learning CNN yang dapat digunakan untuk mengklasifikasikan gambar yang ada merupakan gambar asli, ataupun gambar yang di generasi oleh AI generator. 
