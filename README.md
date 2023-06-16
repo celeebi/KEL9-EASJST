@@ -1,4 +1,4 @@
-# Tugas EAS-GENAP Kelompok 9
+# Tugas EAS-GENAP Kelompok 8
 
 nama anggota:
 - Ahmad Farhan (02311940000079)
