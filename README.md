@@ -6,6 +6,7 @@ nama anggota:
 - Kiky Agustina Putri (02311940000047)
 - Bima Prasetya (023119400000091)
 - Muhammad Chairusya (02311940000162)
+- Faaris Al Mujahidi (02311940000130)
 
 ## Deteksi Gambar yang di hasilkan AI generator
 
